@@ -1,0 +1,13 @@
+# 忽略生成的QR码图片
+qrcodes/
+
+# 忽略临时文件
+*.tmp
+*.swp
+
+# 忽略node_modules目录（如果使用npm管理依赖）
+node_modules/
+
+# 忽略其他不必要的文件
+*.log
+*.bak
